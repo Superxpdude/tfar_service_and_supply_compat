@@ -1,0 +1,14 @@
+name = "TFAR S&S Compat";
+//picture = "";
+actionName = "Github";
+action = "https://github.com/Superxpdude/tfar_service_and_supply_compat";
+description = "TFAR S&S Compat";
+//logoSmall = "";
+//logo = "";
+//logoOver = "";
+tooltip = "TFAR S&S Compat";
+tooltipOwned = "TFAR S&S Compat";
+overview = "Provides TFAR radio compatibility to S&S radio backpacks.";
+author = "Superxpdude";
+hideName = 0;
+hidePicture = 0;
